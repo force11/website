@@ -12,4 +12,6 @@ Issue tracking for FORCE11 platforms and digital strategy
  4. Email group admins and ask to edit group.
  5. TBC - how to start google group; publish group; remove yourself from group (if possible).
 
+FORCE docs
 
+https://www.force11.org/group/administrator-help
