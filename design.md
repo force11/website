@@ -15,7 +15,7 @@ Since we are rebuilding site - We should address the COVID situation and have an
 #### Questions and tasks
 
    * Membership and site use over time: Looking to see how F11 addresses Global South and provide future benchmarking process and for other membership analytics.
-     * Request: Admin access to Google analytics mrchristina001@gmail.com to add other people and fully admin.
+     * Request: Admin access to Google analytics mrchristian001@gmail.com to add other people and fully admin.
      * Request: Someone make a chart of times of year when conference and FSCI happen as far back as possible in spreadsheet.
      * Request: Access to Mailchimp.
      * Request: Mandy do you have any older membership reporting.
