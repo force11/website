@@ -1,0 +1,13 @@
+/* Coolors Exported Palette - https://coolors.co/2e7599-37aec3-5fdeea-d4edf5 */
+
+/* CSV */
+2e7599,37aec3,5fdeea,d4edf5
+
+/* Array */
+["2e7599","37aec3","5fdeea","d4edf5"]
+
+/* Object */
+{"Celadon Blue":"2e7599","Pacific Blue":"37aec3","Sky Blue Crayola":"5fdeea","Columbia Blue":"d4edf5"}
+
+/* Extended Array */
+[{"name":"Celadon Blue","hex":"2e7599","rgb":[46,117,153],"cmyk":[70,24,0,40],"hsb":[200,70,60],"hsl":[200,54,39],"lab":[46,-10,-26]},{"name":"Pacific Blue","hex":"37aec3","rgb":[55,174,195],"cmyk":[72,11,0,24],"hsb":[189,72,76],"hsl":[189,56,49],"lab":[66,-26,-20]},{"name":"Sky Blue Crayola","hex":"5fdeea","rgb":[95,222,234],"cmyk":[59,5,0,8],"hsb":[185,59,92],"hsl":[185,77,65],"lab":[82,-31,-16]},{"name":"Columbia Blue","hex":"d4edf5","rgb":[212,237,245],"cmyk":[13,3,0,4],"hsb":[195,13,96],"hsl":[195,62,90],"lab":[92,-7,-7]}]
