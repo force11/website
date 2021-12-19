@@ -1,0 +1,13 @@
+/* Coolors Exported Palette - https://coolors.co/8abfd0-272727 */
+
+/* CSV */
+8abfd0,272727
+
+/* Array */
+["8abfd0","272727"]
+
+/* Object */
+{"Dark Sky Blue":"8abfd0","Eerie Black":"272727"}
+
+/* Extended Array */
+[{"name":"Dark Sky Blue","hex":"8abfd0","rgb":[138,191,208],"cmyk":[34,8,0,18],"hsb":[195,34,82],"hsl":[195,43,68],"lab":[74,-13,-14]},{"name":"Eerie Black","hex":"272727","rgb":[39,39,39],"cmyk":[0,0,0,85],"hsb":[0,0,15],"hsl":[0,0,15],"lab":[16,0,0]}]
