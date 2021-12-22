@@ -109,7 +109,7 @@ SVG with tranparent background.
 White
 
 <p align="left" style="background-color: gray; padding: 20px">
-<figure style="background-color: gray; padding: 20px>
+<figure>
   <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400">
 </figure>
 </p>
