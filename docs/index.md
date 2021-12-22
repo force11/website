@@ -96,7 +96,7 @@ SVG with tranparent background.
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logo-round.svg" alt="default" width="200">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logo-round.svg" alt="default" width="200">
 </figure>
 </p>
 
