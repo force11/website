@@ -18,7 +18,7 @@ Need support, or have questions, or comments please get in touch 😃
 
 🐛 Bugs - raise a [GitHub issue](https://github.com/force11/website/issues)
 
-Want to ask a question then use our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
+🟠 Chat: Want to ask a question then use our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
 
 # Other sections TBC
 
