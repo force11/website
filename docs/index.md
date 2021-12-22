@@ -114,7 +114,7 @@ White text
 
 <p align="left" style="background-color: gray; padding: 20px"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400"></p>
 
-Black 272727 text
+Black 272727 text 
 
 <p align="left">
 <figure>
