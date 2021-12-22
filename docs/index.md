@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "FORCE11 Website Development Manual"
-date:   2021-12-22 17:00:00 +0200
+title: "FORCE11 Website Development Manual"
+date: 2021-12-22 17:00:00 +0200
 categories: manuals
 image: https://raw.githubusercontent.com/force11/website/master/images/web-communications/Dayflow%20-%20Teamwork.png
 vertical: Code
@@ -54,7 +54,7 @@ PNG with tranparent background.
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logotype-horizontal.png" alt="default" width="400">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal.png" alt="default" width="400">
 </figure>
 </p>
 
@@ -64,13 +64,13 @@ Note: the SVG is scalable, here it is at 400px and 100% screen width.
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logotype-horizontal.svg" alt="default" width="400">
+  <img src="https://raw.githubusercontent.com/force11/website/5cea6297bfc0f8f0a370eb8ae23afa97b64a034b/images/force11-logo/force11-logotype-horizontal.svg" alt="default" width="400">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logotype-horizontal.svg" alt="default" width="100%">
+  <img src="https://raw.githubusercontent.com/force11/website/5cea6297bfc0f8f0a370eb8ae23afa97b64a034b/images/force11-logo/force11-logotype-horizontal.svg" alt="default" width="100%">
 </figure>
 </p>
 
@@ -84,7 +84,7 @@ PNG with tranparent background.
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logo-round.png" alt="default" width="200">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logo-round.png" alt="default" width="200">
 </figure>
 </p>
 
@@ -100,7 +100,7 @@ SVG with tranparent background.
 
 <p align="left">
 <figure>
-  <img src="https://raw.githubusercontent.com/force11/website/874a2ea9a73ff3e744cb56b079a15553e117edc0/images/force11-logo/force11-logotype-stacked.svg" alt="default" width="200">
+  <img src="https://raw.githubusercontent.com/force11/website/5cea6297bfc0f8f0a370eb8ae23afa97b64a034b/images/force11-logo/force11-logo-round.svg" alt="default" width="200">
 </figure>
 </p>
 
@@ -110,7 +110,7 @@ White
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400">
 </figure>
 </p>
 
@@ -161,7 +161,7 @@ Eerie Black 272727
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11%20logo-palette.png" alt="default" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11%20logo-palette.png" alt="default" width="800">
 </figure>
 </p>
 
@@ -201,7 +201,7 @@ TBC but will use same Comfortaa font.
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/palettes/force11-palette%20.png" alt="default" width="100%">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/palettes/force11-palette%20.png" alt="default" width="100%">
 </figure>
 </p>
 
@@ -225,13 +225,13 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/palettes/force11-palette%20.png" alt="default" width="100%">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/palettes/fsci-palette.png" alt="default" width="100%">
 </figure>
 </p>
 
-link on [Coolors](https://coolors.co/4b4bff-2e7599-37aec3-5fdeea-d4edf5-272727-3913d7-621eff-ff7557-394dc1)
+link on [Coolors](https://coolors.co/2e7599-37aec3-5fdeea-d4edf5)
 
-Download the palette [code](https://raw.githubusercontent.com/force11/website/master/images/palettes/force11-palette.txt)
+Download the palette [code](https://raw.githubusercontent.com/force11/website/master/images/palettes/fsci-palette.txt)
 
 `/* CSV */`
 `2e7599,37aec3,5fdeea,d4edf5`
