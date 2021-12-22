@@ -104,7 +104,7 @@ SVG with tranparent background.
 </figure>
 </p>
 
-### logo: White, and black (272727) SVGs on tranparent.
+### Logo: White, and black (272727) SVGs on tranparent background
 
 White
 
