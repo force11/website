@@ -1,6 +1,6 @@
 # FORCE11 Website Manual
 
-
+TBC
 
 # Graphics and Design Resources
 
@@ -80,7 +80,7 @@ SVG with tranparent background.
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/874a2ea9a73ff3e744cb56b079a15553e117edc0/images/force11-logo/force11-logotype-stacked.svg" alt="default" width="200">
+  <img src="https://raw.githubusercontent.com/force11/website/874a2ea9a73ff3e744cb56b079a15553e117edc0/images/force11-logo/force11-logotype-stacked.svg" alt="default" width="200">
 </figure>
 </p>
 
