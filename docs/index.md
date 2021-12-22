@@ -96,7 +96,7 @@ SVG with tranparent background.
 </figure>
 </p>
 
-### logo stacked
+### Logo stacked
 
 <p align="left">
 <figure>
