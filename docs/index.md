@@ -10,7 +10,17 @@ excerpt: "Development documentation for the FORCE11 website from the FORCE11 Web
 
 # FORCE11 Website Manual
 
-TBC
+Organised by the FORCE11 Website Committee.
+
+Need support, or have questions, or comments please get in touch 😃
+
+🩹 Support - raise a ticket via email: contact-project+force11-website-23189747-issue-@incoming.gitlab.com
+
+🐛 Bugs - raise a [GitHub issue](https://github.com/force11/website/issues)
+
+Want to ask a question then use our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
+
+# Other sections TBC
 
 # Graphics and Design Resources
 
