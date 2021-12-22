@@ -100,7 +100,7 @@ SVG with tranparent background.
 
 <p align="left">
 <figure>
-  <img src="https://raw.githubusercontent.com/force11/website/5cea6297bfc0f8f0a370eb8ae23afa97b64a034b/images/force11-logo/force11-logo-round.svg" alt="default" width="200">
+  <img src="https://raw.githubusercontent.com/force11/website/b956139b4001092d23a2329a1bcfd4a23bd272d1/images/force11-logo/force11-logotype-stacked.svg" alt="default" width="200">
 </figure>
 </p>
 
