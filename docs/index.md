@@ -108,11 +108,24 @@ SVG with tranparent background.
 </figure>
 </p>
 
+### Logo stack for Upstream
+
+> Test
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-upstream.svg" alt="default" width="200">
+</figure>
+</p>
+
 ### Logo: White, and black (272727) SVGs on tranparent background
 
 White text
 
 <p align="left" style="background-color: gray; padding: 20px"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400"></p>
+
+
+<p align="left" style="background-color: gray; padding: 20px"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans-plain.svg" alt="default" width="400"></p>
 
 Black 272727 text 
 
