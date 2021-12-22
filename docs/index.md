@@ -40,9 +40,9 @@ SVGs are supplied with transparent backgrounds and filled white backgrounds, use
 
 > FORCE11 
 
-Always written as uppercase with numberal and no space between FORCE and 11.
+FORCE11 is always written as uppercase with numeral 11 and no space between FORCE and 11.
 
-Strapline is:
+The FORCE11 strapline is:
 
 > The Future of Research Communications and e-Scholarship
 
