@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "FORCE11 Website Development Manual"
+date:   2021-12-22 17:00:00 +0200
+categories: manuals
+image: https://raw.githubusercontent.com/force11/website/master/images/web-communications/Dayflow%20-%20Teamwork.png
+vertical: Code
+excerpt: "Development documentation for the FORCE11 website from the FORCE11 Website Committee"
+---
+
 # FORCE11 Website Manual
 
 TBC
