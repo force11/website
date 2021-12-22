@@ -24,6 +24,8 @@ Need support, or have questions, or comments please get in touch 😃
 
 # Graphics and Design Resources
 
+> Note: Graphics are still in a pre-release format (Dec 21). When a version is ready for release a new repository will be made and a release issued.
+
 Please direct any graphics question to the website [Slack](https://force11.slack.com/archives/C01LW0EK8S1) channel or raise an issue in the repo [Design](https://github.com/force11/website/projects/3) project or raise an issue [here](https://github.com/force11/website/issues) with the label #design
 
 ## Logo
@@ -31,6 +33,8 @@ Please direct any graphics question to the website [Slack](https://force11.slack
 The logo is a facsimile of the 2020 FORCE11 logo redrawn in [Inkscape](https://inkscape.org) an open-source illustration application. A new font 'Comfortaa Variable Font' has been used to approximate the original font which is not available. The new font is an open SIL licensed font.
 
 As of Dec '21 the logo has only be prepared for the web, but Inkscape is print orientated so the process to make EPSs etc., will be simple.
+
+> Note: Please wait for the full release noted above before using for other purposes.
 
 To make different size PNGs or JPGs output these from Inkscape using the SVG files.
 
