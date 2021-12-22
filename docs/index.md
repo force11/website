@@ -122,7 +122,7 @@ Black 272727
 </figure>
 </p>
 
-## logo font: Comfortaa Variable Font
+## Logo font: Comfortaa Variable Font
 
 Comfortaa Variable Font - see all files [here](https://github.com/force11/website/tree/master/fonts).
 
