@@ -42,7 +42,7 @@ SVGs are supplied with transparent backgrounds and filled white backgrounds, use
 
 ### Logo and strapline writing style guide
 
-> FORCE11 
+> FORCE11
 
 FORCE11 is always written as uppercase with numeral 11 and no space between FORCE and 11.
 
@@ -127,7 +127,7 @@ White text
 
 <p align="left" style="background-color: gray; padding: 20px"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans-plain.svg" alt="default" width="400"></p>
 
-Black 272727 text 
+Black 272727 text
 
 <p align="left">
 <figure>
@@ -283,7 +283,7 @@ Dimensions 1200 x 675 px
 All pics https://github.com/force11/website/tree/master/images/conf-heros
 
 * 2022 - FORCE11 archive
-* 2021 - FORCE11 archive 
+* 2021 - FORCE11 archive
 * 2019 - Source and Copyright - https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg CC 2.0
 * 2018 - FORCE11 archive
 * 2017 - FORCE11 archive
@@ -297,42 +297,42 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 ***
 
 
-* 2022 - 
+* 2022 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-default.jpg" alt="default" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-default.jpg" alt="default" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/bf4d8697999096fd0fce50029ccae02620a6bc4b/images/conf-heros/preview/2022.png" alt="default" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/bf4d8697999096fd0fce50029ccae02620a6bc4b/images/conf-heros/preview/2022.png" alt="default" width="800">
 </figure>
 </p>
 
-* 2021 - 
+* 2021 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-default.jpg" alt="default" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-default.jpg" alt="default" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2021.png" alt="default" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2021.png" alt="default" width="800">
 </figure>
 </p>
 
 * 2019 -  
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2019.jpg" alt="2019" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2019.jpg" alt="2019" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2019.png" alt="2019" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2019.png" alt="2019" width="800">
 </figure>
 </p>
 
@@ -340,95 +340,94 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 * 2018 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2018.jpg" alt="2018" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2018.jpg" alt="2018" width="800">
 </figure>
 </p>
 
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2018.png" alt="2018" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2018.png" alt="2018" width="800">
 </figure>
 </p>
- 
+
 * 2017 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2017.jpg" alt="2017" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2017.jpg" alt="2017" width="800">
 </figure>
 </p>
 
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2017.png" alt="2017" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2017.png" alt="2017" width="800">
 </figure>
 </p>
- 
+
 
 * 2016 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2016.jpg" alt="2016" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2016.jpg" alt="2016" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2016.png" alt="2016" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2016.png" alt="2016" width="800">
 </figure>
 </p>
 
 * 2015 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2015.jpg" alt="2015" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2015.jpg" alt="2015" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2015.png" alt="2015" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2015.png" alt="2015" width="800">
 </figure>
 </p>
 
 * BTPDF2 2013 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-btpdf2-2013.jpg" alt="2013" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-btpdf2-2013.jpg" alt="2013" width="800">
 </figure>
 </p>
 
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2013.png" alt="2013" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2013.png" alt="2013" width="800">
 </figure>
 </p>
 
 * BTPDF1 2011 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-btpdf1-2011.jpg" alt="2011" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-btpdf1-2011.jpg" alt="2011" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011btpfd1.png" alt="2011btpdf1" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011btpfd1.png" alt="2011btpdf1" width="800">
 </figure>
 </p>
 
 * FoRC 2011 -
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-FoRC-2011.jpg" alt="20119" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-FoRC-2011.jpg" alt="20119" width="800">
 </figure>
 </p>
 
 <p align="left">
 <figure>
-  <img src="https://github.com/force11/website/blob/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011forc.png" alt="2011forc" width="800">
+  <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011forc.png" alt="2011forc" width="800">
 </figure>
 </p>
-
