@@ -207,7 +207,7 @@ TBC but will use same Comfortaa font.
 
 ### Styles
 
-## Site color palette
+## Site color palettes
 
 ### FORCE11 palette
 
@@ -293,7 +293,17 @@ link on [Coolors](https://coolors.co/e35435-ff7557-ffc0b3-fff7f2)
 
 Download the palette [code](https://raw.githubusercontent.com/force11/website/master/images/palettes/force11-oranges-palette.txt)
 
+`/* CSV */`
+`e35435,ff7557,ffc0b3,fff7f2`
 
+`/* Array */`
+`["e35435","ff7557","ffc0b3","fff7f2"]`
+
+`/* Object */`
+`{"Cinnabar":"e35435","Outrageous Orange":"ff7557","Melon":"ffc0b3","Seashell":"fff7f2"}`
+
+`/* Extended Array */`
+`[{"name":"Cinnabar","hex":"e35435","rgb":[227,84,53],"cmyk":[0,63,77,11],"hsb":[11,77,89],"hsl":[11,76,55],"lab":[55,54,47]},{"name":"Outrageous Orange","hex":"ff7557","rgb":[255,117,87],"cmyk":[0,54,66,0],"hsb":[11,66,100],"hsl":[11,100,67],"lab":[65,51,42]},{"name":"Melon","hex":"ffc0b3","rgb":[255,192,179],"cmyk":[0,25,30,0],"hsb":[10,30,100],"hsl":[10,100,85],"lab":[83,21,15]},{"name":"Seashell","hex":"fff7f2","rgb":[255,247,242],"cmyk":[0,3,5,0],"hsb":[23,5,100],"hsl":[23,100,97],"lab":[98,2,3]}]`
 
 ## Conference
 
