@@ -187,7 +187,7 @@ TBC but will use same Comfortaa font.
 
 ## Site color palette
 
-### FORCE11
+### FORCE11 palette
 
 <p align="left">
 <figure>
@@ -211,7 +211,7 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 `/* Extended Array */`
 `[{"name":"Blue RYB","hex":"4b4bff","rgb":[75,75,255],"cmyk":[71,71,0,0],"hsb":[240,71,100],"hsl":[240,100,65],"lab":[44,56,-89]},{"name":"Celadon Blue","hex":"2e7599","rgb":[46,117,153],"cmyk":[70,24,0,40],"hsb":[200,70,60],"hsl":[200,54,39],"lab":[46,-10,-26]},{"name":"Pacific Blue","hex":"37aec3","rgb":[55,174,195],"cmyk":[72,11,0,24],"hsb":[189,72,76],"hsl":[189,56,49],"lab":[66,-26,-20]},{"name":"Sky Blue Crayola","hex":"5fdeea","rgb":[95,222,234],"cmyk":[59,5,0,8],"hsb":[185,59,92],"hsl":[185,77,65],"lab":[82,-31,-16]},{"name":"Columbia Blue","hex":"d4edf5","rgb":[212,237,245],"cmyk":[13,3,0,4],"hsb":[195,13,96],"hsl":[195,62,90],"lab":[92,-7,-7]},{"name":"Eerie Black","hex":"272727","rgb":[39,39,39],"cmyk":[0,0,0,85],"hsb":[0,0,15],"hsl":[0,0,15],"lab":[16,0,0]},{"name":"Medium Blue","hex":"3913d7","rgb":[57,19,215],"cmyk":[73,91,0,16],"hsb":[252,91,84],"hsl":[252,84,46],"lab":[30,67,-89]},{"name":"Electric Indigo","hex":"621eff","rgb":[98,30,255],"cmyk":[62,88,0,0],"hsb":[258,88,100],"hsl":[258,100,56],"lab":[39,76,-96]},{"name":"Outrageous Orange","hex":"ff7557","rgb":[255,117,87],"cmyk":[0,54,66,0],"hsb":[11,66,100],"hsl":[11,100,67],"lab":[65,51,42]},{"name":"Violet Blue","hex":"394dc1","rgb":[57,77,193],"cmyk":[70,60,0,24],"hsb":[231,70,76],"hsl":[231,54,49],"lab":[38,32,-63]}]`
 
-### FSCI
+### FSCI palette
 
 <p align="left">
 <figure>
@@ -235,7 +235,7 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 `/* Extended Array */`
 `[{"name":"Celadon Blue","hex":"2e7599","rgb":[46,117,153],"cmyk":[70,24,0,40],"hsb":[200,70,60],"hsl":[200,54,39],"lab":[46,-10,-26]},{"name":"Pacific Blue","hex":"37aec3","rgb":[55,174,195],"cmyk":[72,11,0,24],"hsb":[189,72,76],"hsl":[189,56,49],"lab":[66,-26,-20]},{"name":"Sky Blue Crayola","hex":"5fdeea","rgb":[95,222,234],"cmyk":[59,5,0,8],"hsb":[185,59,92],"hsl":[185,77,65],"lab":[82,-31,-16]},{"name":"Columbia Blue","hex":"d4edf5","rgb":[212,237,245],"cmyk":[13,3,0,4],"hsb":[195,13,96],"hsl":[195,62,90],"lab":[92,-7,-7]}]`
 
-### Palette greys
+### Greys palette
 
 <p align="left">
 <figure>
@@ -259,7 +259,7 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 `/* Extended Array */`
 `[{"name":"Alice Blue","hex":"f2f8fa","rgb":[242,248,250],"cmyk":[3,1,0,2],"hsb":[195,3,98],"hsl":[195,44,96],"lab":[97,-2,-2]},{"name":"Light Gray","hex":"d0dadd","rgb":[208,218,221],"cmyk":[6,1,0,13],"hsb":[194,6,87],"hsl":[194,16,84],"lab":[86,-3,-3]},{"name":"Platinum","hex":"e9e9e9","rgb":[233,233,233],"cmyk":[0,0,0,9],"hsb":[0,0,91],"hsl":[0,0,91],"lab":[92,0,0]},{"name":"Cultured","hex":"f5f5f5","rgb":[245,245,245],"cmyk":[0,0,0,4],"hsb":[0,0,96],"hsl":[0,0,96],"lab":[97,0,0]},{"name":"Eerie Black","hex":"272727","rgb":[39,39,39],"cmyk":[0,0,0,85],"hsb":[0,0,15],"hsl":[0,0,15],"lab":[16,0,0]}]`
 
-### Palette oranges
+### Oranges palette
 
 <p align="left">
 <figure>
