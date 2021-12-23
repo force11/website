@@ -191,7 +191,7 @@ TBC but will use same Comfortaa font.
 
 <p align="left">
 <figure>
-  <img src="https://raw.githubusercontent.com/force11/website/master/images/palettes/fsci-logotype.svg" alt="default" width="400px">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/fsci-logotype.svg" alt="default" width="400px">
 </figure>
 </p>
 
