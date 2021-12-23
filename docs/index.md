@@ -1,13 +1,3 @@
----
-layout: post
-title: "FORCE11 Website Development Manual"
-date: 2021-12-22 17:00:00 +0200
-categories: manuals
-image: https://raw.githubusercontent.com/force11/website/master/images/web-communications/Dayflow%20-%20Teamwork.png
-vertical: Code
-excerpt: "Development documentation for the FORCE11 website from the FORCE11 Website Committee"
----
-
 # FORCE11 Website Manual
 
 Organised by the FORCE11 Website Committee.
@@ -84,7 +74,7 @@ TBC
 
 ### Logo round
 
-PNG with tranparent background.
+PNG with transparent background.
 
 <p align="left">
 <figure>
@@ -92,7 +82,7 @@ PNG with tranparent background.
 </figure>
 </p>
 
-SVG with tranparent background.
+SVG with transparent background.
 
 <p align="left">
 <figure>
@@ -108,24 +98,11 @@ SVG with tranparent background.
 </figure>
 </p>
 
-### Logo stack for Upstream
-
-> Test
-
-<p align="left">
-<figure>
-  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-upstream.svg" alt="default" width="200">
-</figure>
-</p>
-
 ### Logo: White, and black (272727) SVGs on tranparent background
 
 White text
 
-<p align="left" style="background-color: gray; padding: 20px"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400"></p>
-
-
-<p align="left" style="background-color: gray; padding: 20px"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans-plain.svg" alt="default" width="400"></p>
+<p align="left"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400"></p>
 
 Black 272727 text
 
