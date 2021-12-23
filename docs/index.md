@@ -112,6 +112,16 @@ Black 272727 text
 </figure>
 </p>
 
+## FSCI logo
+
+TBC but will use same Comfortaa font.
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logotype-horizontal-black-272727-on-trans.svg" alt="default" width="400">
+</figure>
+</p>
+
 ## Logo font: Comfortaa Variable Font
 
 Comfortaa Variable Font - see all files [here](https://github.com/force11/website/tree/master/fonts).
@@ -178,6 +188,18 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 ## FSCI logo
 
 TBC but will use same Comfortaa font.
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/palettes/fsci-logotype.svg" alt="default" width="400px">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/palettes/fsci-palette.png" alt="default" width="400px">
+</figure>
+</p>
 
 ## Site text styles
 
