@@ -52,7 +52,7 @@ PNG with tranparent background.
 </figure>
 </p>
 
-SVG with tranparent background.
+SVG with transparent background.
 
 Note: the SVG is scalable, here it is at 400px and 100% screen width.
 
@@ -205,7 +205,27 @@ TBC but will use same Comfortaa font.
 
 ### Fonts
 
+Headers - Poppins https://fonts.google.com/specimen/Poppins?query=Poppins - Variable font. This Font Software is licensed under the SIL Open Font License.
+
+Paragraph - Mulish https://fonts.google.com/specimen/Mulish?query=Mulish - Variable font. This Font Software is licensed under the SIL Open Font License.
+
 ### Styles
+
+Paragraph -
+
+H1 -
+
+H2 -
+
+H3 -
+
+H4 -
+
+H4 -
+
+H6 -
+
+Blockquote -
 
 ## Site color palettes
 
@@ -305,7 +325,29 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 `/* Extended Array */`
 `[{"name":"Cinnabar","hex":"e35435","rgb":[227,84,53],"cmyk":[0,63,77,11],"hsb":[11,77,89],"hsl":[11,76,55],"lab":[55,54,47]},{"name":"Outrageous Orange","hex":"ff7557","rgb":[255,117,87],"cmyk":[0,54,66,0],"hsb":[11,66,100],"hsl":[11,100,67],"lab":[65,51,42]},{"name":"Melon","hex":"ffc0b3","rgb":[255,192,179],"cmyk":[0,25,30,0],"hsb":[10,30,100],"hsl":[10,100,85],"lab":[83,21,15]},{"name":"Seashell","hex":"fff7f2","rgb":[255,247,242],"cmyk":[0,3,5,0],"hsb":[23,5,100],"hsl":[23,100,97],"lab":[98,2,3]}]`
 
-## Conference
+# Images templates
+
+Templates have been provided for the following.
+
+Some templates are built in CSS and HTML, others as template resources for use in an image editor like Gimp.
+
+## Blog images
+
+## Blog images
+
+## Events images
+
+## Groups images
+
+## Site section Heros (top of page content)
+
+Home; Posts; Members; Groups; Conference; FSCI, Events; Info
+
+## Site header and footer
+
+## Site sections
+
+## Conference images
 
 ### Featured image
 
@@ -464,3 +506,5 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
   <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011forc.png" alt="2011forc" width="800">
 </figure>
 </p>
+
+# Tools and external Resources
