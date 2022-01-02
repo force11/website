@@ -1,27 +1,33 @@
-# FORCE11 Website development
+# FORCE11 Web Guide
 
-Web presence migration >2020
+See the guide here https://force11.github.io/website/
 
-  - Roadmap
-  - Issues
-  - Slack
+Need support, have a question, or comments to make please get in touch 😃
 
-## Documentation
+🩹 Support: Raise a ticket via email: contact-project+force11-website-23189747-issue-@incoming.gitlab.com
 
- - FORCE11 docs <2020 - https://www.force11.org/group/administrator-help
- - FORCE11 website manual >2021 - 
+🐛 Bugs / Issues: Raise a [GitHub issue](https://github.com/force11/website/issues)
 
-## Benchmarking
+🟠 Chat: Have a question then head over to our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
 
-Lighthouse: Drupal 7, Pantheon
+📧 e-mail: site-contact@force11.org
 
-Tests run
+---
 
-28.11.2020 Desktop: 61 Performance; 88 Accessibility; 64 Best Practices; 83 SEO; Time to Interactive 3.2 sec
+✍🏿 Contribute to the FORCE11 Web Guide by creating a pull request on GitHub.
 
-28.11.2020 Mobile: 11 Performance; 95 Accessibility; 57 Best Practices; 86 SEO; Time to Interactive 15.7 sec 
+---
 
+🗺️ Development roadmap
 
+---
 
+💓 Site status: https://force11.github.io/uptime/
 
+---
 
+Sites covered: [force11.org](https://force11.org/) [archive.force11.net](https://archive.force11.net/)
+
+Organized by the FORCE11 Website Committee. Committee lead Simon Worthington, simon.worthington@tib.eu GitHub: @mrchristian Twitter: @mrchristian99 Committee members: Stephanie Hagstrom.
+
+Date: 2022 onwards
