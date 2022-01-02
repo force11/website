@@ -2,7 +2,7 @@
 
 See the guide here https://force11.github.io/website/
 
-Need support, have a question, or comments to make please get in touch 😃
+Need support, have a question, or comment to make please get in touch 😃
 
 🩹 Support: Raise a ticket via email: contact-project+force11-website-23189747-issue-@incoming.gitlab.com
 
