@@ -28,4 +28,4 @@ Sites covered: [force11.org](https://force11.org/) [archive.force11.net](https:/
 
 Organized by the FORCE11 Website Committee. Committee lead Simon Worthington, simon.worthington@tib.eu GitHub: @mrchristian Twitter: @mrchristian99 Committee members: Stephanie Hagstrom.
 
-Date: 2022 onwards
+Date: 2022 onwards - CCBY-SA 4.0
