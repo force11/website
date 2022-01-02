@@ -1,0 +1,11 @@
+<!-- docs/_sidebar.md -->
+* [Home](/)
+* [User Guide](userland.md)
+* [Coordination - UX](ux.md)
+* [Accessibility](accessibility.md)
+* [Translation](translation.md)
+* [Graphics](graphics.md)
+* [Tools](tools.md)
+* [Archive](archive.md)
+* [Credits](credits.md)
+* [Historical Docs](historical-documentation.md)

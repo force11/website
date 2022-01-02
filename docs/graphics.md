@@ -1,18 +1,4 @@
-# FORCE11 Website Manual
-
-Organised by the FORCE11 Website Committee.
-
-Need support, or have questions, or comments please get in touch 😃
-
-🩹 Support - raise a ticket via email: contact-project+force11-website-23189747-issue-@incoming.gitlab.com
-
-🐛 Bugs - raise a [GitHub issue](https://github.com/force11/website/issues)
-
-🟠 Chat: Want to ask a question then use our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
-
-# Other sections TBC
-
-# Graphics and Design Resources
+# Graphics Resources
 
 > Note: Graphics are still in a pre-release format (Dec 21). When a version is ready for release a new repository will be made and a release issued.
 
@@ -371,8 +357,8 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 
 ***
 
-
 * 2022 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-default.jpg" alt="default" width="800">
@@ -506,5 +492,3 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
   <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011forc.png" alt="2011forc" width="800">
 </figure>
 </p>
-
-# Tools and external Resources

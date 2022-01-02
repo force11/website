@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FORCE11 Web Guide</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="A guide covering all aspects of the FORCE11 web development and administration - from the FORCE11 Website Committee">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <link rel="icon" href="assets/favicon/favicon.svg">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
+  <link rel="stylesheet" href="assets/css/theme-custom.css">
+
+  <!-- Alternate Stylesheets -->
+  <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" title="Defaults">
+  <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="Simple Dark">
+
+  <!-- Font Awesome Stylesheets -->
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
+
+    <!-- Other -->
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css" />
+
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'FORCE11 Web Guide',
+      repo: 'https://github.com/force11/website',
+      loadSidebar: true,
+      auto2top   : true,
+      maxLevel   : 0,
+      subMaxLevel: 6,
+      externalLinkTarget: '_blank',
+      footer: {
+         copy: 'By FORCE11 <span>&copy; 2021 The Authors.</span>',
+         auth: 'Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)',
+         style: 'text-align: right;',
+         style: 'className'
+       },
+      pagination: {
+         crossChapter: true,
+         crossChapterText: true
+       },
+      search: {
+         depth      : 4,
+         noData     : 'No results found.',
+         placeholder: 'Search here...'
+       },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master')
+            } else {
+              url = 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/tree/master/docs/' + vm.route.file
+            }
+            var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
+
+            // Adjust GitHub displayable image URL format to also work in Docsify
+            html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+
+              //   return editHtml
+              //   + html
+              //   + '\n\n----\n\n'
+              //   + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>'
+          })
+        }
+      ]
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- Customizable Theme-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+
+  <!-- Search Box Plugin -->
+  <script src="https://unpkg.com/docsify/lib/plugins/search.min.js"></script>
+
+  <!-- Emoji Plugin -->
+  <script src="https://unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+
+  <!-- Font Awesome Plugin -->
+  <script src="https://unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+
+  <!-- Tabs Plugin-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
+  <!-- Pagination-->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+    <!-- Image Zoom-->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+    <!-- Footer-->
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+
+    <!-- Header-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
+
+</body>
+</html>
