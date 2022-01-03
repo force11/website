@@ -189,23 +189,33 @@ Paragraph - Mulish https://fonts.google.com/specimen/Mulish?query=Mulish - Varia
 
 ### Styles
 
-Paragraph -
+Paragraph –
 
-H1 -
+Small – Mulish 14px Regular 400
 
-H2 -
+Normal – Mulish 17px Regular 400
 
-H3 -
+Large –  Mulish 21px Regular 300
 
-H4 -
+H1 – Poppins 48px Light
 
-H4 -
+H2 – Poppins 40px Light
 
-H6 -
+H3 – Poppins 28px Medium 500
 
-Blockquote -
+H4 – Poppins 24px Medium 500
 
-Link color -
+H5 – Poppins 21px Semibold
+
+H6 – Poppins 20px Semibold
+
+Blockquote – Mulish 20px Italic
+
+Link color –
+
+Body text – #3913D7 Hover underline
+
+Titles – #272727 Hover underline
 
 ## Site color palettes
 
@@ -311,9 +321,7 @@ Templates have been provided for the following.
 
 Some templates are built in CSS and HTML, others as template resources for use in an image editor like Gimp.
 
-## Blog images
-
-## Blog images
+## Posts images
 
 ## Events images
 
@@ -321,15 +329,38 @@ Some templates are built in CSS and HTML, others as template resources for use i
 
 ## Site section Heros (top of page content)
 
-Home; Posts; Members; Groups; Conference; FSCI; Events, and; Info
+Home; Posts; Members; Groups; Conference; FSCI; Events, and; Info.
+
+Home
+
+
+Posts
+
+
+Members
+
+
+Groups
+
+
+Conference
+
+
+FSCI
+
+
+Events
+
+
+Info
+
+
 
 ## Site header and footer
 
 ## Site sections
 
 ## Conference images
-
-### Featured image
 
 Artwork used for conference heros > 2021 e.g., URLs /force2021/ etc
 
@@ -494,3 +525,5 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
   <img src="https://raw.githubusercontent.com/force11/website/32dbec1b9ea4d31269caf423a85ba4777b8dfa5e/images/conf-heros/preview/2011forc.png" alt="2011forc" width="800">
 </figure>
 </p>
+
+## FSCI images
