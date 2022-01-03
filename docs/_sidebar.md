@@ -1,10 +1,11 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
 * [User Guide](userland.md)
-* [Coordination - UX](ux.md)
+* [Coordination – UX](ux.md)
 * [Accessibility](accessibility.md)
 * [Translation](translation.md)
 * [Graphics](graphics.md)
+* [Writing Style Guide](writing-style-guide.md)
 * [Tools](tools.md)
 * [Archive](archive.md)
 * [Credits](credits.md)

@@ -4,7 +4,7 @@
 
 Please direct any graphics question to the website [Slack](https://force11.slack.com/archives/C01LW0EK8S1) channel or raise an issue in the repo [Design](https://github.com/force11/website/projects/3) project or raise an issue [here](https://github.com/force11/website/issues) with the label #design
 
-## Logo
+## FORCE11 logo
 
 The logo is a facsimile of the 2020 FORCE11 logo redrawn in [Inkscape](https://inkscape.org) an open-source illustration application. A new font 'Comfortaa Variable Font' has been used to approximate the original font which is not available. The new font is an open SIL licensed font.
 
@@ -16,7 +16,7 @@ To make different size PNGs or JPGs output these from Inkscape using the SVG fil
 
 SVGs are supplied with transparent backgrounds and filled white backgrounds, use the white backgrounds for social media etc., as transparent backgrounds are rendered differently by platforms.
 
-### Logo and strapline writing style guide
+### Logo and strapline
 
 > FORCE11
 
