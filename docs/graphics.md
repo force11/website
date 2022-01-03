@@ -84,23 +84,15 @@ SVG with transparent background.
 </figure>
 </p>
 
-### Logo: White, and black (272727) SVGs on tranparent background
+### Logo transparent background
+
+White, and black (272727) SVGs on transparent background
 
 White text
 
 <p align="left"><img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-white-on-trans.svg" alt="default" width="400"></p>
 
-Black 272727 text
-
-<p align="left">
-<figure>
-  <img src="https://raw.githubusercontent.com/force11/website/3cf8485e593ef1299a8434e89ccb651ce15d248b/images/force11-logo/force11-logotype-horizontal-black-272727-on-trans.svg" alt="default" width="400">
-</figure>
-</p>
-
-## FSCI logo
-
-TBC but will use same Comfortaa font.
+Black (272727) text
 
 <p align="left">
 <figure>
@@ -139,7 +131,7 @@ If your app fully supports variable fonts, you can now pick intermediate styles 
 
   static/Comfortaa-Bold.ttf
 
-## Colour Palette
+## Logo color palette
 
 Dark Sky Blue 8abfd0
 
@@ -173,7 +165,7 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 
 ## FSCI logo
 
-TBC but will use same Comfortaa font.
+TBC, but will use same Comfortaa font.
 
 <p align="left">
 <figure>
@@ -212,6 +204,8 @@ H4 -
 H6 -
 
 Blockquote -
+
+Link color -
 
 ## Site color palettes
 
@@ -327,7 +321,7 @@ Some templates are built in CSS and HTML, others as template resources for use i
 
 ## Site section Heros (top of page content)
 
-Home; Posts; Members; Groups; Conference; FSCI, Events; Info
+Home; Posts; Members; Groups; Conference; FSCI; Events, and; Info
 
 ## Site header and footer
 
@@ -354,7 +348,6 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 * BTPDF1 2011 - FORCE11 archive
 * FoRC 2011 - FORCE11 archive
 
-
 ***
 
 * 2022 -
@@ -372,6 +365,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * 2021 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-default.jpg" alt="default" width="800">
@@ -385,6 +379,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * 2019 -  
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2019.jpg" alt="2019" width="800">
@@ -399,6 +394,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 
 
 * 2018 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2018.jpg" alt="2018" width="800">
@@ -413,6 +409,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * 2017 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2017.jpg" alt="2017" width="800">
@@ -428,6 +425,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 
 
 * 2016 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2016.jpg" alt="2016" width="800">
@@ -441,6 +439,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * 2015 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-2015.jpg" alt="2015" width="800">
@@ -454,6 +453,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * BTPDF2 2013 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-btpdf2-2013.jpg" alt="2013" width="800">
@@ -468,6 +468,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * BTPDF1 2011 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-btpdf1-2011.jpg" alt="2011" width="800">
@@ -481,6 +482,7 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 * FoRC 2011 -
+
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/d52a56dcd0aec0aed6bc930061918cbb62ff2327/images/conf-heros/conf-hero-FoRC-2011.jpg" alt="20119" width="800">
