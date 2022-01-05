@@ -5,16 +5,16 @@
     --base-font-family                                : "Open sans", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif; /*--base-color: var(--mono-shade2);*/
     --link-color                                      : #000; /*#0A75BD*/
     --link-color--hover                               : #659AD2;
-    --link-border-bottom--hover                       : #659AD2;
+    --link-border-bottom--hover                       : #272727;
     --link-text-decoration                            : underline;
     --link-text-decoration-color                      : #000;
-    --sidebar-name-color                              : #000;
-    --sidebar-background                              : #C9D5DE;
+    --sidebar-name-color                              : #272727;
+    --sidebar-background                              : #e9e9e9;
     --sidebar-nav-link-color--active                  : #4D4D4D;
     --cover-heading-font-size-max                     : 40;
     --cover-heading-font-size-min                     : 34;
     --cover-heading-color                             : #000;
-    --blockquote-border-color                         : #F1B11A;
+    --blockquote-border-color                         : #8abfd0;
     --heading-font-family                             : "IBM Plex Sans", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif;
     --heading-h2-font-size: var(--font-size-xl);
     --heading-h3-border-style: solid;
@@ -26,7 +26,7 @@
     --heading-h5-font-weight: 500;
     --heading-h6-font-size: var(--font-size-xs);
     --sidebar-nav-link-font-weight--active            : bold;
-    --sidebar-border-color                            : #BAB3AC;
+    --sidebar-border-color                            : #d0dadd;
     --sidebar-width                                   : 22rem;
     --sidebar-nav-pagelink-background-position        : 3px 10px;
     --sidebar-nav-pagelink-background-position--active: 3px 10px; /*left center*/
