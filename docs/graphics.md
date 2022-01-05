@@ -317,15 +317,149 @@ Download the palette [code](https://raw.githubusercontent.com/force11/website/ma
 
 # Images templates
 
-Templates have been provided for the following.
+Templates have been provided for the following: Posts, Posts Series, Events, and Groups Avatars.
 
 Some templates are built in CSS and HTML, others as template resources for use in an image editor like Gimp.
 
+Instructions on use to follow.
+
+Some template images need further refinement, e.g., Events where the pattern types need a limited variation and color palette use.
+
+In addition a Blush account it available for use https://blush.design/ and in the tools guide section other image repositories and services are listed.
+
 ## Posts images
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts/colour-bg-hashtag.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts/gradient-bg-hashtag.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts/img-colorize-hashtag.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts/img-dual-colorize.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts/img-hashtag.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts/img-undraw.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+## Posts series images
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts-series/blog-series-1.jpg" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/posts-series/series-hp.png" alt="default" width="75%">
+</figure>
+</p>
 
 ## Events images
 
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/events/events-RDM.png" alt="default" width="75%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/events/e4.jpg" alt="default" width="75%">
+</figure>
+</p>
+
 ## Groups images
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/group-drawing-1.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-1.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-2.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-3.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-4.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-5.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-6.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-avatar-7.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-fair.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-force11.png" alt="default" width="35%">
+</figure>
+</p>
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/groups/groups-fsci.png" alt="default" width="35%">
+</figure>
+</p>
 
 ## Site section Heros (top of page content)
 
