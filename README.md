@@ -12,7 +12,7 @@ Need support, have a question, or comment to make please get in touch 😃
 
 🟠 Chat: Have a question then head over to our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
 
-📧 e-mail: site-contact@force11.org
+📧 e-mail: webteam@force11.net
 
 ---
 
