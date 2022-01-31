@@ -661,3 +661,28 @@ All pics https://github.com/force11/website/tree/master/images/conf-heros
 </p>
 
 ## FSCI images
+
+# Image sources (open)
+
+More sources being collected on this GitHub issue (Feb 2022) [#68](https://github.com/force11/website/issues/68)
+
+- People / Humans - https://www.humaaans.com/
+- Undraw - https://undraw.co/illustrations  
+- Google icons - Material Designs - https://fonts.google.com/icons?selected=Material+Icons
+- Openomji - https://openmoji.org/
+- Unsplash - https://unsplash.com/s/photos/citizen-science
+- Wikimedia commons - https://commons.wikimedia.org/wiki/Main_Page
+- Pixelbay - https://pixabay.com/
+- Illustration platform - Blush https://blush.design/
+- Diagrams, wireframes - https://app.diagrams.net/
+- Icon website - https://www.drawkit.io/free-icons
+- Illustrations - https://2.flexiple.com/scale/all-illustrations
+- SVG patterns - https://www.svgbackgrounds.com/
+- Blobs - https://www.blobmaker.app/
+- More blogs and patterns - https://haikei.app/
+- Patterns - https://products.ls.graphics/paaatterns/preview.html
+- Patterns - https://coolbackgrounds.io/
+- Patterns - https://www.heropatterns.com/
+- Triangle - https://trianglify.io/
+- Patterns - https://www.flaticon.com/
+- SVG patterns https://bgjar.com/
