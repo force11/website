@@ -6,7 +6,7 @@ _Development Wiki_ https://github.com/force11/website/wiki
 
 Need support, have a question, or comment to make please get in touch 😃
 
-🩹 Support: Raise a ticket via email: contact-project+force11-website-23189747-issue-@incoming.gitlab.com
+🩹 Support: Raise a ticket via [GitHub issue](https://github.com/force11/website/issues)
 
 🐛 Bugs / Issues: Raise a [GitHub issue](https://github.com/force11/website/issues)
 
