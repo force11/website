@@ -16,7 +16,7 @@ Need support, have a question, or comment to make please get in touch 😃
 
 ---
 
-✍🏿 Contribute to the FORCE11 Web Guide by creating a pull request on GitHub.
+Contribute to the FORCE11 Web Guide by creating a pull request on GitHub.
 
 ---
 
