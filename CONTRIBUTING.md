@@ -4,7 +4,7 @@
 
 ## Code of Conduct
 
-See: https://www.force11.org/code-conduct
+See: [https://www.force11.org/code-of-conduct](https://force11.org/info/code-of-conduct/)
 
 ## Websites
 
