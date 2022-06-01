@@ -23,6 +23,7 @@ Hashtag: #F11webteam
   - Website TDL - Github Project: https://github.com/force11/website/projects/17
   - WebLog: FORCE11 website and infrastructure - https://github.com/force11/website/wiki/WebLog:-FORCE11-website-and-infrastructure
   - _Development Wiki:_ https://github.com/force11/website/wiki
+  - Web Committee Meeting Notes (public): https://demo.hedgedoc.org/s/B5iScCFRO
   - Roadmap: TBC
 
 ---
