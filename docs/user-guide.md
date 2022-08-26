@@ -92,7 +92,7 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/spacer-settings.png" alt="spacer settings" width="800">
   <figcaption>Spacer settings: Click image to enlarge</figcaption></figure>
 
-**You have no completed the Step-by-step guide.**  
+**You have now completed the Step-by-step guide.**  
 
 ## Checklist: Adding a sponsor
 
