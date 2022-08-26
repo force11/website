@@ -2,6 +2,11 @@
 
 ## Add sponsor to conference sponsors page
 
+Here is an example FORCE [Conference Sponsors page](https://force11.org/force2022-sponsorship-opportunities/) for FORCE2022:
+
+<figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/force2022.png" alt="sponsors page FORCE2022" width="800">
+<figcaption>FORCE2022 Sponsors Page: Click image to enlarge</figcaption></figure>
+
 **Note:** The site has frequent backups and post versioning so if you muck up don't worry - message support and we can roll things back.
 
 ### Preparation
