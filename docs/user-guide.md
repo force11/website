@@ -64,5 +64,19 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
 
   1. Here well add sponsor to their respective sponsor list: gold, silver, etc. Using the inline editing well add an H3 header and a paragraph. You can look over existing content in the editor to see how things are done, or copy paste blocks.
 
-  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/editing.png" alt="editing" width="800">
+  2. We'll start with adding a H3 header. First to add a new block you need to move your mouse under block above where you want to add your H3 header (new block). Look for the boxed + symbol.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/add-header.png" alt="Add header" width="800">
   <figcaption>Click image to enlarge</figcaption></figure>
+
+  Then select Header from the blocks listed. Once inserted you you can set the header level - H1 to H6 - here we want H3.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/h3.png" alt="H3" width="800">
+  <figcaption>Click image to enlarge</figcaption></figure>
+
+  3. Now we'll insert a paragraph.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/paragraph.png" alt="Add paragraph" width="800">
+  <figcaption>Click image to enlarge</figcaption></figure>
+
+  
