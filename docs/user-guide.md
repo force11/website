@@ -2,13 +2,15 @@
 
 ## Add sponsor to conference sponsors page
 
+**Note:** The site has frequent backups and post versioning so if you muck up don't worry - message support and we can roll things back.
+
 ### Preparation
 
 Prepare sponsor logo artwork as JPEG less than 2mb. Saving as JPEG quality 'high' 85% is usually good enough to get most logo artwork under 2mb.
 
-You need to be logged in with the correct access rights to add sponsor - raise a ticket (see website footer to submit a ticket) if you need support or message #website channel on Slack.
+You need to be logged in with the correct access rights to add sponsor - raise a [ticket](https://force11.org/submit-ticket/) on the site if you need support or message [#website](https://force11.slack.com/archives/C01LW0EK8S1) channel on Slack.
 
-  1. Navigate to the sponsors page in the Conference area.   
+  1. Navigate to the 'Sponsors' page in the secondary menu of the Conference top level menu item.   
 
   PIC
 
