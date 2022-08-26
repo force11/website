@@ -12,6 +12,8 @@ You need to be logged in with the correct access rights to add sponsor - raise a
 
 ### Step-by-step guide
 
+#### Logo upload
+
   1. Navigate to the 'Sponsors' page in the secondary menu of the Conference top level menu item.   
 
   <figure><img src="https://raw.githubusercontent.com/force11/website/fb2939fff37cff57f31e267b9e5d002717120205/images/user-guide/sponsor-page.png" alt="sponsors page" width="800">
@@ -57,3 +59,10 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
 
    <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/update.png" alt="update" width="800">
    <figcaption>Click image to enlarge</figcaption></figure>
+
+#### Sponsor info upload
+
+  1. Here well add sponsor to their respective sponsor list: gold, silver, etc. Using the inline editing well add an H3 header and a paragraph. You can look over existing content in the editor to see how things are done, or copy paste blocks.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/editing.png" alt="editing" width="800">
+  <figcaption>Click image to enlarge</figcaption></figure>
