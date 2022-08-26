@@ -39,7 +39,16 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
    <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/replace.png" alt="replace logo" width="800">
    <figcaption>Click to enlarge</figcaption></figure>
 
-   d. Image settings and resizing.
+   d. Image settings and resizing. When a Block is selected the right-hand pane has setting for the specific Block. The right-hand pane can also be set to display document other settings. Importantly for your logo upload you will want to edit: image size, Alt tag, and highlight field. Image size can also be done with drag-and-drop in the center pane.
+
+   Note: Drag and drop image resize stays in aspect ratio, whereas numerical editing on the right does not.
 
    <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/image-settings.png" alt="image settings and resize" width="800">
    <figcaption>Click to enlarge</figcaption></figure>
+
+   e. Add a URL link to your image. From the image context menu click the chain-link icon and add your URL.
+
+   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/image-url-editing.png" alt="image URL link" width="800">
+   <figcaption>Click to enlarge</figcaption></figure>
+
+   
