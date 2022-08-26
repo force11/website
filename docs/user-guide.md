@@ -10,6 +10,8 @@ Prepare sponsor logo artwork as JPEG less than 2mb. Saving as JPEG quality 'high
 
 You need to be logged in with the correct access rights to add sponsor - raise a [ticket](https://force11.org/submit-ticket/) on the site if you need support or message [#website](https://force11.slack.com/archives/C01LW0EK8S1) channel on Slack.
 
+### Step-by-step guide 
+
   1. Navigate to the 'Sponsors' page in the secondary menu of the Conference top level menu item.   
 
   <figure><img src="https://raw.githubusercontent.com/force11/website/fb2939fff37cff57f31e267b9e5d002717120205/images/user-guide/sponsor-page.png" alt="sponsors page" width="800">
@@ -50,5 +52,3 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
 
    <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/image-url-editing.png" alt="image URL link" width="800">
    <figcaption>Click to enlarge</figcaption></figure>
-
-   
