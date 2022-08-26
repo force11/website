@@ -79,4 +79,29 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/paragraph.png" alt="Add paragraph" width="800">
   <figcaption>Click image to enlarge</figcaption></figure>
 
-  
+  4. Add inline paragraph URL hyperlink. Select the text you want to link and use the chain icon in the paragraph contextual dialogue box.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/inline-URL.png" alt="inline URL" width="800">
+  <figcaption>Click image to enlarge</figcaption></figure>
+
+  4. Add spacers between Blocks. You can add a spacer anywhere you like. Spacers are Blocks and you use the same process as you did for adding a paragraph. Spacer height settings can be set in the right-hand pane when the spacer is selected.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/spacer.png" alt="spacer" width="800">
+  <figcaption>Add spacer: Click image to enlarge</figcaption></figure>
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/spacer-settings.png" alt="spacer settings" width="800">
+  <figcaption>Spacer settings: Click image to enlarge</figcaption></figure>
+
+**You have no completed the Step-by-step guide.**  
+
+## Checklist: Adding a sponsor
+
+  - Add logo top of page
+  - Add sponsor info lower down in page
+  - Logo:
+    - make sure alt tag is edited,
+    - highlight is edited (mouse roll over dialogue)
+    - Ensure image URL has been changed
+  - Sponsor info: That sponsor name has URL link in text
+
+END
