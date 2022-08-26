@@ -31,15 +31,15 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
 
    b. When you click on the image a dialog box appears with menu options. Use the right three-dot more icon and use the drop-down to select _Duplicate_. Now you'll have a duplicate image and you can move on to replace the image used.
 
-   <figure><img src="https://raw.githubusercontent.com/force11/website/fb2939fff37cff57f31e267b9e5d002717120205/images/user-guide/dup-logo.png" alt="duplicate logo" width="800">
+   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/dup-logo.png" alt="duplicate logo" width="800">
    <figcaption>Click to enlarge</figcaption></figure>  
 
    c. To replace the image used in your duplicate first select your duplicate. Then in the contextual menu click _Replace_. Here you can select Upload and select the image from your local computer and upload to the site. This will complete the upload process.
 
-   <figure><img src="https://raw.githubusercontent.com/force11/website/fb2939fff37cff57f31e267b9e5d002717120205/images/user-guide/replace.png" alt="replace logo" width="800">
+   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/replace.png" alt="replace logo" width="800">
    <figcaption>Click to enlarge</figcaption></figure>
 
    d. Image settings and resizing.
 
-   <figure><img src="https://raw.githubusercontent.com/force11/website/fb2939fff37cff57f31e267b9e5d002717120205/images/user-guide/image-settings.png" alt="image settings and resize" width="800">
+   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/image-settings.png" alt="image settings and resize" width="800">
    <figcaption>Click to enlarge</figcaption></figure>
