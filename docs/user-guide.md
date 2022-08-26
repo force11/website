@@ -13,6 +13,8 @@ You need to be logged in with the correct access rights to add sponsor - raise a
   1. Navigate to the 'Sponsors' page in the secondary menu of the Conference top level menu item.   
 
   PIC
+  <img src="https://raw.githubusercontent.com/force11/website/fb2939fff37cff57f31e267b9e5d002717120205/images/user-guide/sponsor-page.png" alt="sponsors page" width="800">
+</figure>
 
   2. Edit using the menu item top left 'Edit Conference Sub Post'
 
