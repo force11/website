@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
-* [User Guide](userland.md)
+* [User Guide](user-guide.md)
 * [Coordination – UX](ux.md)
 * [Accessibility](accessibility.md)
 * [Translation](translation.md)
