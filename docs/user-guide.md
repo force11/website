@@ -52,3 +52,8 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
 
    <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/image-url-editing.png" alt="image URL link" width="800">
    <figcaption>Click image to enlarge</figcaption></figure>
+
+   e. Update and save your work. Top right you will see an Update button. This will save your changes. When you update you will get a link to your page view appear bottom left. There is also a preview function top right.
+
+   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/update.png" alt="update" width="800">
+   <figcaption>Click image to enlarge</figcaption></figure>
