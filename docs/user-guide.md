@@ -97,7 +97,45 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
   <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/spacer-settings.png" alt="spacer settings" width="800">
   <figcaption>Spacer settings: Click image to enlarge</figcaption></figure>
 
-**You have now completed the Step-by-step guide.**  
+## Add sponsor sitewide carousel
+
+As of October 2022 a Global Sponsor Carousel appears in the locations (Note: Global means a single file is used across a system). You only need to edit one file and the Carousel updates across the whole site:
+
+  - Home
+  - Single Posts
+  - Conference Site Area (needs correct)
+  - FORCE2022 Home (Current Conference)
+  - Conference Sub-posts (all child posts of Conference Posts)
+  - Info Pages (About us pages)
+
+### How to add sponsor to the Global carousel
+
+  1. Navigate to Templates left menu item in the Wordpress Dashboard area.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/1-sponsor-carousel-dashboard-template-menu.png" alt="spacer" width="800">
+  <figcaption>Locate Templates: Click image to enlarge</figcaption></figure>
+
+  2. Find the specific template you want to edit. In this case its called 'FORCE2022 sponsors'. Roll over the item and click 'Edit with Elementor'.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/2-sponsor-carousel-template-find-edit.png" alt="spacer" width="800">
+  <figcaption>Find and edit with Elementor: Click image to enlarge</figcaption></figure>
+
+  3. Now add your new Sponsor logo and URL link to the Carousel.
+     1. Edit the Carousel logo strip using the blue edit icon on right. This appears when you rollover the logo strip.
+     2. Left-hand settings menu will appear. Here you can add a logo and URL link.
+     3. Save - bottom left.
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/3-sponsor-carousel-add-item-save.png" alt="spacer" width="800">
+  <figcaption>Add logo and URL: Click image to enlarge</figcaption></figure>
+
+  4. Now you have completed the task you can exit 'Elementor' editing. At top of left setting menu click the Hamburger menu, then click EXIT in the dropdown options.  
+
+  <figure><img src="https://raw.githubusercontent.com/force11/website/master/images/user-guide/4-sponsor-carousel-exit.png" alt="spacer" width="800">
+  <figcaption>EXIT: Click image to enlarge</figcaption></figure>
+
+Note: Instructions on making Global Templates and how to place them in different regions will follow. SW: 18 Oct 22.
+
+**You have now completed the Step-by-step guide: For sponsor logo upload**  
 
 ## Checklist: Adding a sponsor
 
@@ -108,5 +146,6 @@ Note: **About the Gutenberg Editor** - The concept of the Wordpress Gutenberg ed
     - highlight is edited (mouse roll over dialogue)
     - Ensure image URL has been changed
   - Sponsor info: That sponsor name has URL link in text
+  - Add logo and URL to the Global Sponsor Carousel
 
 END
