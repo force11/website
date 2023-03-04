@@ -2,37 +2,52 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="494.7171"
    height="84.749832"
    viewBox="0 0 494.7171 84.749831"
    id="svg4327"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="force11-logotype-horizontal.svg"
    inkscape:export-filename="\\tib.tibub.de\DFS0\Home\WorthingtonS\Documents\force11\design\logo-font-comfortaa\logo090721\force11-logo-09072021-8CBFD0-272727.png"
    inkscape:export-xdpi="76.769997"
-   inkscape:export-ydpi="76.769997"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="76.769997">
+  <title
+     id="title4149">FORCE11 logo</title>
   <defs
-     id="defs4329" />
+     id="defs4329">
+    <font
+       horiz-adv-x="1024"
+       id="font4140"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face4142"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph4144" />
+    </font>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4550403"
-     inkscape:cx="144.19315"
-     inkscape:cy="29.531083"
+     inkscape:cx="161.83513"
+     inkscape:cy="21.791903"
      inkscape:document-units="px"
-     inkscape:current-layer="g4952"
+     inkscape:current-layer="text4136"
      showgrid="false"
      units="px"
      fit-margin-top="1"
@@ -44,7 +59,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     showborder="true" />
   <metadata
      id="metadata4332">
     <rdf:RDF>
@@ -53,8 +69,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>FORCE11 logo</dc:title>
+        <dc:date>2023-03-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Simon Worthington</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC BY-SA 4.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>FORCE11</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -65,17 +114,38 @@
     <g
        transform="translate(-362.2432,534.26542)"
        id="g4952">
-      <text
-         id="text4136"
-         y="243.70818"
-         x="179.27588"
+      <g
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#272727;fill-opacity:1;stroke:#272727;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+         id="text4136">
+        <path
+           d="m 217.79588,203.92818 -25.83,0 0,-21.87 36,0 c 2.7,0 4.59,-1.71 4.59,-4.23 0,-2.61 -1.89,-4.41 -4.59,-4.41 l -40.68,0 c -2.7,0 -4.68,1.98 -4.68,4.68 l 0,60.93 c 0,2.61 2.07,4.68 4.68,4.68 2.61,0 4.68,-2.07 4.68,-4.68 l 0,-26.46 25.83,0 c 2.7,0 4.59,-1.8 4.59,-4.32 0,-2.52 -1.89,-4.32 -4.59,-4.32 z"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
-           y="243.70818"
-           x="179.27588"
-           id="tspan4138"
-           sodipodi:role="line">FORCE11</tspan></text>
+           id="path4147" />
+        <path
+           d="m 277.01588,172.51818 c -21.15,0 -35.73,14.94 -35.73,36 0,21.15 14.58,36.09 35.73,36.09 21.06,0 35.73,-14.94 35.73,-36.09 0,-21.06 -14.67,-36 -35.73,-36 z m 0,8.46 c 15.66,0 26.73,11.88 26.73,27.54 0,15.66 -11.07,27.63 -26.73,27.63 -15.66,0 -26.73,-11.97 -26.73,-27.63 0,-15.66 11.07,-27.54 26.73,-27.54 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
+           id="path4149" />
+        <path
+           d="m 373.12463,236.50818 -13.77,-22.14 c 7.38,-3.33 12.06,-10.17 12.06,-18.81 0,-13.05 -9.54,-22.14 -23.04,-22.14 l -16.2,0 c -2.7,0 -4.68,1.98 -4.68,4.68 l 0,60.93 c 0,2.7 1.98,4.68 4.68,4.68 2.7,0 4.68,-1.98 4.68,-4.68 l 0,-22.41 11.52,0 1.62,0 15.48,24.84 c 0.99,1.53 2.34,2.25 4.05,2.25 3.87,0 5.76,-3.69 3.6,-7.2 z m -36.27,-28.53 0,-25.92 11.52,0 c 8.19,0 14.04,5.58 14.04,13.5 0,7.29 -5.85,12.42 -14.04,12.42 l -11.52,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
+           id="path4151" />
+        <path
+           d="m 415.94775,172.51818 c -19.62,0 -34.74,15.93 -34.74,36 0,20.34 15.21,36.09 34.74,36.09 8.19,0 15.57,-2.61 22.05,-7.83 0.99,-0.99 1.44,-2.07 1.44,-3.33 0,-3.87 -3.78,-5.67 -6.93,-3.33 -5.04,3.78 -10.44,5.94 -16.56,5.94 -14.22,0 -25.74,-12.15 -25.74,-27.54 0,-15.21 11.52,-27.54 25.74,-27.54 7.83,0 11.79,2.07 16.29,5.94 3.15,2.52 7.47,0.54 7.47,-2.97 0,-1.53 -0.36,-2.52 -1.8,-3.69 -6.75,-5.49 -12.78,-7.74 -21.96,-7.74 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
+           id="path4153" />
+        <path
+           d="m 499.76869,235.06818 -36,0 0,-22.5 25.83,0 c 2.7,0 4.59,-1.8 4.59,-4.32 0,-2.52 -1.89,-4.32 -4.59,-4.32 l -25.83,0 0,-21.87 36,0 c 2.7,0 4.59,-1.71 4.59,-4.23 0,-2.61 -1.89,-4.41 -4.59,-4.41 l -40.68,0 c -2.7,0 -4.68,1.98 -4.68,4.68 l 0,60.93 c 0,2.7 1.98,4.68 4.68,4.68 l 40.68,0 c 2.7,0 4.59,-1.8 4.59,-4.41 0,-2.52 -1.89,-4.23 -4.59,-4.23 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
+           id="path4155" />
+        <path
+           d="m 518.95838,187.00818 6.57,-2.79 0,54.9 c 0,2.52 2.07,4.59 4.5,4.59 2.61,0 4.68,-2.07 4.68,-4.59 l 0,-61.02 c 0,-2.7 -1.8,-4.68 -4.5,-4.68 -0.45,0 -1.17,0.18 -1.71,0.36 l -14.04,5.04 c -2.07,0.72 -2.97,2.43 -2.97,4.32 0,2.61 1.89,4.5 4.59,4.5 0.81,0 1.8,-0.18 2.88,-0.63 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
+           id="path4157" />
+        <path
+           d="m 554.29041,187.00818 6.57,-2.79 0,54.9 c 0,2.52 2.07,4.59 4.5,4.59 2.61,0 4.68,-2.07 4.68,-4.59 l 0,-61.02 c 0,-2.7 -1.8,-4.68 -4.5,-4.68 -0.45,0 -1.17,0.18 -1.71,0.36 l -14.04,5.04 c -2.07,0.72 -2.97,2.43 -2.97,4.32 0,2.61 1.89,4.5 4.59,4.5 0.81,0 1.8,-0.18 2.88,-0.63 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#272727;fill-opacity:1;stroke:#272727;stroke-opacity:1"
+           id="path4159" />
+      </g>
       <path
          style="opacity:1;fill:#8abfd0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
          d="M 43.113281 1 A 42.113754 41.374916 0 0 0 1 42.375 A 42.113754 41.374916 0 0 0 43.113281 83.75 A 42.113754 41.374916 0 0 0 85.226562 42.375 A 42.113754 41.374916 0 0 0 43.113281 1 z M 45.515625 6.9082031 A 35.467285 35.467285 0 0 1 80.984375 42.375 A 35.467285 35.467285 0 0 1 45.515625 77.841797 A 35.467285 35.467285 0 0 1 10.048828 42.375 A 35.467285 35.467285 0 0 1 45.515625 6.9082031 z "
