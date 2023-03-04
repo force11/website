@@ -54,6 +54,16 @@ Note: the SVG is scalable, here it is at 400px and 100% screen width.
 </figure>
 </p>
 
+force11-logotype-horizontal-2023-03-04.svg
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/5cea6297bfc0f8f0a370eb8ae23afa97b64a034b/images/force11-logo/force11-logotype-horizontal-2023-03-04.svg" alt="default" width="100%">
+</figure>
+
+</p>
+
+
 ### Logotype with strapline
 
 TBC
