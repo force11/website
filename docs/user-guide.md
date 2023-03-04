@@ -148,4 +148,29 @@ Note: Instructions on making Global Templates and how to place them in different
   - Sponsor info: That sponsor name has URL link in text
   - Add logo and URL to the Global Sponsor Carousel
 
-END
+## Committees
+
+### Adding Members
+
+_Summary: Member must be user to add them. Go to the page you want to edit; Click 'Edit About Page'; Copy paste an existing avatar, and use pencil icon to add new name - this will pull up name from user list. Use left left-hand 'List View' Shift+Alt+O (oh) to navigate, copy/paste, etc., the Gutenberg Blocks._  
+
+Note: you need advanced permissions to perform this task. Contact support if you need access via site ticketing or Website Slack channel.
+
+__Before you start! Users need to have website accounts before you can add them.__
+
+Please ask your committee members to join FORCE11 and signup to the site. If for any reason this is not possible contact support and alternative ways of listing them can be arranged.
+
+  1. Navigate to the committee main webpage, and click 'Edit About Page' top left.
+
+  PIC
+  1. Add a member. Here we use what is called the [Buddy Press Wordpress plugin](https://wordpress.org/plugins/buddypress/) which handles user profiles and group access control. Buddy Press will pull in the users name and avatar.
+    1. Note: Preview and Save are at the top right.
+    1. Copy an existing members profile, and copy paste it into the next available column slot.
+PIC - copy
+Familiarity with the Guttenberg Editor is needed to carry out this task. A short video is attached. And there is a unpublished test page to work on if you want to play around.
+    1. Click the pencil edit icon and then you are prompted to add persons name - names will be pulled up from the site members list, so you only need to type a few characters to get a user list to select from.
+    PIC: pencil, name list.
+    1. If you need to add a new row of members use the Blocks navigation on the left and copy paste a row. Then edit the row accordingly.
+    1. If you need to add a role under a members profile, add a Paragraph Block and edit.
+    1. Troubleshooting Gutenberg Blocks editing. Use the Blocks 'List View' on the left to see the Blocks arrangement, from this list view you will be able to understand what Block you are interacting with.
+    PIC - list view
