@@ -38,6 +38,14 @@ PNG with tranparent background.
 </figure>
 </p>
 
+PNG test larger
+
+<p align="left">
+<figure>
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-horizontal.png" alt="default" width="400">
+</figure>
+</p>
+
 SVG with transparent background.
 
 Note: the SVG is scalable, here it is at 400px and 100% screen width.
