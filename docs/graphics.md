@@ -48,7 +48,7 @@ PNG with white background 2400 px x 411 px.
 </figure>
 </p>
 
-[SVG file](https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-font-comforta.svg) with editable text using font [Comfortaa](https://github.com/force11/website/tree/master/fonts), font needs to be loaded to view text properly.
+[SVG file](https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-font-comfortaa.svg) with editable text using font [Comfortaa](https://github.com/force11/website/tree/master/fonts), font needs to be loaded to view text properly.
 
 SVG with transparent background.
 
