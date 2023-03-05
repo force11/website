@@ -56,12 +56,6 @@ Note: the SVG is scalable, here it is at 400px and 100% screen width.
 
 <p align="left">
 <figure>
-  <img src="https://https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal.svg" alt="default" width="400">
-</figure>
-</p>
-
-<p align="left">
-<figure>
   <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal.svg" alt="default" width="100%">
 </figure>
 </p>
