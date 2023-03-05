@@ -1,16 +1,16 @@
 # Graphics Resources
 
-> Note: Graphics are still in a pre-release format (Dec 21). When a version is ready for release a new repository will be made and a release issued.
-
 Please direct any graphics question to the website [Slack](https://force11.slack.com/archives/C01LW0EK8S1) channel or raise an issue in the repo [Design](https://github.com/force11/website/projects/3) project or raise an issue [here](https://github.com/force11/website/issues) with the label #design
+
+# Quick access
+
+If you just need all the available design resources: Images, fonts, PSDs, and palettes - then download the Repo release, unzip and you will find all the assets in the 'images' directory.
+
+[v1.0 March 2023]()
 
 ## FORCE11 logo
 
 The logo is a facsimile of the 2020 FORCE11 logo redrawn in [Inkscape](https://inkscape.org) an open-source illustration application. A new font 'Comfortaa Variable Font' has been used to approximate the original font which is not available. The new font is an open SIL licensed font.
-
-As of Dec '21 the logo has only be prepared for the web, but Inkscape is print orientated so the process to make EPSs etc., will be simple.
-
-> Note: Please wait for the full release noted above before using for other purposes.
 
 To make different size PNGs or JPGs output these from Inkscape using the SVG files.
 
@@ -31,6 +31,8 @@ All uppercase except e-Scolarship because of use of e-.
 ### Logotype
 
 **ALL FILES - RIGHT CLICK TO DOWNLOAD** or visit GitHub to [download all files](https://github.com/force11/website/tree/master/images).
+
+SVG versions with fonts present have 'font-comfortaa' added to the end of the file names.
 
 PNG with tranparent background 2400 px x 411 px.
 
@@ -60,15 +62,12 @@ Note: the SVG is scalable, here it is at 400px and 100% screen width.
 </figure>
 </p>
 
-force11-logotype-horizontal-2023-03-04.svg
-
 <p align="left">
 <figure>
   <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-2023-03-04.svg" alt="test svg" width="100%">
 </figure>
 
 </p>
-
 
 ### Logotype with strapline
 
@@ -344,6 +343,8 @@ Some template images need further refinement, e.g., Events where the pattern typ
 In addition a Blush account it available for use https://blush.design/ and in the tools guide section other image repositories and services are listed.
 
 ## Posts images
+
+Blog images can be downloaded as a [layered PSD file (Zipped)](https://drive.google.com/file/d/1hN5F3rIoXCkQPdlpNA-41hnGu6GKPiZs/view?usp=sharing) from google Drive.
 
 <p align="left">
 <figure>
