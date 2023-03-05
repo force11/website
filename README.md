@@ -12,7 +12,7 @@ Chat: Have a question then head over to our [#Slack channel](https://force11.sla
 
 📧 e-mail: simon.worthington@tib.eu
 
-Hashtag: #F11webteam 
+Hashtag: #F11webteam
 
 💓 Site status: https://force11.github.io/uptime/
 
@@ -25,14 +25,14 @@ If you are interested in volunteering to join the committee please drop us a lin
  - Committee Chair: Simon Worthington (FORCE11 BoD Member), simon.worthington@tib.eu GitHub: @mrchristian Twitter: @mrchristian99 
  - Committee Vice Chair: Mandy Taha (FORCE11 BoD Member)
 
-We have a weekly one hour meeting via video and Slack every Wedensday 11:30-12:30 UTC or if the time zone doesn't suit you meeting can be engaged with asyncronously via Slack, chat, tickets and meeting notes. 
+We have a weekly one hour meeting via video and Slack every Wedensday 11:30-12:30 UTC or if the time zone doesn't suit you meeting can be engaged with asyncronously via Slack, chat, tickets and meeting notes.
 
 The FORCE11 website committee is responsible for the digital strategy and devops of the website, its day-to-day running, and supporting infrastructure, as well as supporting the FORCE11 organisation and members in using the website.
 
 The mission óf the web team is to bring modern web development processes to the site: maintaining a digital strategy; using UX/UI design; supporting a DevOps infrastructure; supporting open science practices on the site; use modern graphic design tools and libraries; and carry out effective support and user documentation is maintained.
 
 The web team faces a number of exciting open-source development challenges such as working group management and membership systems.
-The web team welcomes membership, cooperation, and knowledge sharing from the scholcomms community. If you would like to hone your skills or learn more about modern web dev, technical writing, help support scholarly communicationss with open-source contributions please get in touch.   
+The web team welcomes membership, cooperation, and knowledge sharing from the scholcomms community. If you would like to hone your skills or learn more about modern web dev, technical writing, help support scholarly communicationss with open-source contributions please get in touch.
 
 We are looking for volunteer contribution in the following areas and can offer skill sharing and the ability to contribute to high quality deliverables in open-source software, strategy development, web design and campaigns, web editors, and in project DevOps and management:
 
@@ -63,3 +63,6 @@ FAIR principles are applied https://www.go-fair.org/fair-principles/
 All third party content and code is the copyright of the authors and under their respective OSI compliant open licenses for code and compliant with Creative Commons Attribution-ShareAlike 4.0 International for content.
 
 Attribution: FORCE11, 2022. The Authors [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+
