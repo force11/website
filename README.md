@@ -8,7 +8,7 @@ Need support, have a question, or comment to make please get in touch 😃
 
 🐛 Bugs / Issues: Raise a [GitHub issue](https://github.com/force11/website/issues)
 
-🟠 Chat: Have a question then head over to our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
+Chat: Have a question then head over to our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
 
 📧 e-mail: simon.worthington@tib.eu
 
