@@ -30,15 +30,17 @@ All uppercase except e-Scolarship because of use of e-.
 
 ### Logotype
 
-PNG with tranparent background.
+**ALL FILES - RIGHT CLICK TO DOWNLOAD** or visit GitHub to [download all files](https://github.com/force11/website/tree/master/images).
+
+PNG with tranparent background 2400 px x 411 px.
 
 <p align="left">
 <figure>
-  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal.png" alt="default" width="400">
+  <img src="https://raw.githubusercontent.com/force11/website/master/images/force11-logo/force11-logotype-horizontal-2023-03-04-transparent.png" alt="default" width="400">
 </figure>
 </p>
 
-PNG test larger
+PNG with white background 2400 px x 411 px.
 
 <p align="left">
 <figure>
