@@ -6,25 +6,15 @@ Support documentation site _FORCE11 Web Guide_ https://force11.github.io/website
 
 Need support, have a question, or comment to make please get in touch 😃
 
-🩹 Support: Raise a ticket via TBC (25 May 2022)
-
 🐛 Bugs / Issues: Raise a [GitHub issue](https://github.com/force11/website/issues)
 
 🟠 Chat: Have a question then head over to our [#Slack channel](https://force11.slack.com/archives/C01LW0EK8S1)
 
-📧 e-mail: webteam@force11.net
+📧 e-mail: simon.worthington@tib.eu
 
 Hashtag: #F11webteam 
 
 💓 Site status: https://force11.github.io/uptime/
-
-## Our work
-
-  - Website TDL - Github Project: https://github.com/force11/website/projects/17
-  - WebLog: FORCE11 website and infrastructure - https://github.com/force11/website/wiki/WebLog:-FORCE11-website-and-infrastructure
-  - _Development Wiki:_ https://github.com/force11/website/wiki
-  - Web Committee Meeting Notes (public): https://demo.hedgedoc.org/s/B5iScCFRO
-  - Roadmap: TBC
 
 ---
 
