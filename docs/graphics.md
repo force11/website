@@ -6,7 +6,7 @@ Please direct any graphics question to the website [Slack](https://force11.slack
 
 > If you just need all the available design resources: Images, fonts, PSDs, and palettes - then download the Repo release, unzip and you will find all the assets in the 'images' directory.
 
-> [v1.0 March 2023]()
+> [design resources v1.0 - March 2023](https://github.com/force11/website/releases/tag/v1.0)
 
 ## FORCE11 logo
 
