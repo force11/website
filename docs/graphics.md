@@ -2,11 +2,11 @@
 
 Please direct any graphics question to the website [Slack](https://force11.slack.com/archives/C01LW0EK8S1) channel or raise an issue in the repo [Design](https://github.com/force11/website/projects/3) project or raise an issue [here](https://github.com/force11/website/issues) with the label #design
 
-# Quick access
+> # Quick access
 
-If you just need all the available design resources: Images, fonts, PSDs, and palettes - then download the Repo release, unzip and you will find all the assets in the 'images' directory.
+> If you just need all the available design resources: Images, fonts, PSDs, and palettes - then download the Repo release, unzip and you will find all the assets in the 'images' directory.
 
-[v1.0 March 2023]()
+> [v1.0 March 2023]()
 
 ## FORCE11 logo
 
